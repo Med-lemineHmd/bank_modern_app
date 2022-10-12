@@ -11,12 +11,14 @@ module.exports = {
         dimBlue: "rgba(9, 151, 124, 0.1)",
       },
       fontFamily: {
+        comfortaa: ["Comfortaa", "cursive"],
         poppins: ["Poppins", "sans-serif"],
       },
     },
     screens: {
       xs: "480px",
-      sm: "620px",
+      ss: "620px",
+      sm: "768px",
       md: "1060px",
       lg: "1200px",
       xl: "1700px",
